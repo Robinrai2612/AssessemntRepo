@@ -3,4 +3,7 @@ export interface cartstore {
   title: string;
   price: number;
   quantity: number;
+  //descrption: string;
+  //image: string;
+  //category: string;
 }
